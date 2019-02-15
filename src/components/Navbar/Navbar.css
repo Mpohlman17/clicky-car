@@ -1,0 +1,36 @@
+.navbar {
+  display: inline-block;
+  text-align: center;
+}
+
+.itemLeft {
+  width: 15%;
+}
+
+.itemCenter {
+  width: 70%;
+}
+
+.itemRight {
+  width: 15%;
+}
+
+.navbar {
+  background: #212f3d;
+  box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+}
+
+body {
+  font-size: 24px;
+}
+
+h3 {
+  text-align: center;
+  font-size: 20px;
+  padding-bottom: 40px;
+}
+h5 {
+  font-family: "Shrikhand", cursive;
+  font-size: 1em;
+  color: rgb(10, 87, 169);
+}
